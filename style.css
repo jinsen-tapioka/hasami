@@ -84,11 +84,13 @@ margin-bottom:30px;
 }
 
 div#staff img{
-padding:20px
+padding:20px;
+float:left;
 }
 
 div#staff p{
-padding:20px
+padding:20px;
+
 }
 
 div#main{
